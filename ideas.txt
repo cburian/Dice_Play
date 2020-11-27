@@ -1,0 +1,18 @@
+Dice program:
+
+Make a program that:
+
+v 0.1:
+- roll a dice of your choice (D3, D4, D6, D8, D10, D12, D20)
+- prints the result 
+	ex: roll('D4')
+		>>> 2
+- roll multiple dice of one type and prints the sum of all dice
+	ex: roll('3D6')
+		>>> 16
+
+v 0.2:
+- add statistics and probabilities:
+	1. as percentages - probability for a certain nr.
+	2. as bar graph - using only print
+- make custom dice - define each face
